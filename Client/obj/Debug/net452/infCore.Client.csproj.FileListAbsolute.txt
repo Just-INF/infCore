@@ -1,0 +1,9 @@
+E:\FiveM\JustINFStudios\FiveM\infinitePossibilities\resources\infCore\Client\bin\Debug\net452\infCore.Client.net.dll
+E:\FiveM\JustINFStudios\FiveM\infinitePossibilities\resources\infCore\Client\bin\Debug\net452\CitizenFX.Core.Client.dll
+E:\FiveM\JustINFStudios\FiveM\infinitePossibilities\resources\infCore\Client\obj\Debug\net452\infCore.Client.csproj.AssemblyReference.cache
+E:\FiveM\JustINFStudios\FiveM\infinitePossibilities\resources\infCore\Client\obj\Debug\net452\infCore.Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\FiveM\JustINFStudios\FiveM\infinitePossibilities\resources\infCore\Client\obj\Debug\net452\infCore.Client.AssemblyInfoInputs.cache
+E:\FiveM\JustINFStudios\FiveM\infinitePossibilities\resources\infCore\Client\obj\Debug\net452\infCore.Client.AssemblyInfo.cs
+E:\FiveM\JustINFStudios\FiveM\infinitePossibilities\resources\infCore\Client\obj\Debug\net452\infCore.Client.csproj.CoreCompileInputs.cache
+E:\FiveM\JustINFStudios\FiveM\infinitePossibilities\resources\infCore\Client\obj\Debug\net452\infCore..AC9AEA2F.Up2Date
+E:\FiveM\JustINFStudios\FiveM\infinitePossibilities\resources\infCore\Client\obj\Debug\net452\infCore.Client.net.dll

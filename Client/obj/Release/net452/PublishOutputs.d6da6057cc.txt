@@ -1,0 +1,2 @@
+E:\FiveM\JustINFStudios\FiveM\infinitePossibilities\resources\infCore\Client\bin\Release\net452\publish\infCore.Client.net.dll
+E:\FiveM\JustINFStudios\FiveM\infinitePossibilities\resources\infCore\Client\bin\Release\net452\publish\CitizenFX.Core.Client.dll

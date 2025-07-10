@@ -1,0 +1,10 @@
+E:\FiveM\JustINFStudios\FiveM\infinitePossibilities\resources\infCore\Server\bin\Release\netstandard2.0\infCore.Server.deps.json
+E:\FiveM\JustINFStudios\FiveM\infinitePossibilities\resources\infCore\Server\bin\Release\netstandard2.0\infCore.Server.net.dll
+E:\FiveM\JustINFStudios\FiveM\infinitePossibilities\resources\infCore\Server\obj\Release\netstandard2.0\infCore.Server.csproj.AssemblyReference.cache
+E:\FiveM\JustINFStudios\FiveM\infinitePossibilities\resources\infCore\Server\obj\Release\netstandard2.0\infCore.Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\FiveM\JustINFStudios\FiveM\infinitePossibilities\resources\infCore\Server\obj\Release\netstandard2.0\infCore.Server.AssemblyInfoInputs.cache
+E:\FiveM\JustINFStudios\FiveM\infinitePossibilities\resources\infCore\Server\obj\Release\netstandard2.0\infCore.Server.AssemblyInfo.cs
+E:\FiveM\JustINFStudios\FiveM\infinitePossibilities\resources\infCore\Server\obj\Release\netstandard2.0\infCore.Server.csproj.CoreCompileInputs.cache
+E:\FiveM\JustINFStudios\FiveM\infinitePossibilities\resources\infCore\Server\bin\Release\netstandard2.0\infCore.Server.net.pdb
+E:\FiveM\JustINFStudios\FiveM\infinitePossibilities\resources\infCore\Server\obj\Release\netstandard2.0\infCore.Server.net.dll
+E:\FiveM\JustINFStudios\FiveM\infinitePossibilities\resources\infCore\Server\obj\Release\netstandard2.0\infCore.Server.net.pdb
